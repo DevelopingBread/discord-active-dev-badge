@@ -24,7 +24,13 @@ Invite your bot to any discord server, or just make a new one.
 ## Step 4
 Have NodeJS installed. If not go here: https://nodejs.org/en/
 
-Unzip that folder, and place it in a normal folder somewhere in your desktop
+Download this repo as a zip folder and Unzip it.
+
+Then place it in a normal folder somewhere in your desktop
+
+Example:
+
+![image](https://user-images.githubusercontent.com/96776358/203197382-a1510985-dc51-47d7-a42b-330d868803e9.png)
 
 ## Step 5
 Go into the folder with the files and right click, then click `open in terminal`
